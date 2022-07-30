@@ -1,3 +1,3 @@
 # Node-express-chat-app
 
-Deployed: https://socketio-realtimechatapp.herokuapp.com/
+Deployed link: https://socketio-realtimechatapp.herokuapp.com/
